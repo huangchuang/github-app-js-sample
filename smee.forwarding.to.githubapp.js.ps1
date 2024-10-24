@@ -1,0 +1,1 @@
+npx smee -u https://smee.io/aXfbmOAX5gDkQP5M -t http://localhost:3000/api/webhook
